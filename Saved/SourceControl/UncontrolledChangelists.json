@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/UI_Slice_Material/Content/Materials/M_UI_Slice.uasset",
+				"D:/Unreal Projects/UI_Slice_Material/Content/Materials/MF_UI_Slice.uasset",
+				"D:/Unreal Projects/UI_Slice_Material/Content/Materials/Circle.uasset",
+				"D:/Unreal Projects/UI_Slice_Material/Content/Materials/MI_UI_Circle.uasset",
+				"D:/Unreal Projects/UI_Slice_Material/Content/Materials/WBP_Demo.uasset",
+				"D:/Unreal Projects/UI_Slice_Material/Content/Materials/Textures/Circle.uasset",
+				"D:/Unreal Projects/UI_Slice_Material/Content/Materials/Functions/MF_UI_Slice.uasset",
+				"D:/Unreal Projects/UI_Slice_Material/Content/Levels/LVL_Demo.umap"
+			]
+		}
+	]
+}
